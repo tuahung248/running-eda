@@ -11,3 +11,4 @@ jupyterlab==4.0.8
 nbconvert==7.11.0
 streamlit==1.28.1
 python-dateutil==2.8.2
+ctgan
